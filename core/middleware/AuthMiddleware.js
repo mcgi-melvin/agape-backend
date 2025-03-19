@@ -1,0 +1,8 @@
+
+const VerifyRegistrationField = () => {
+
+}
+
+module.exports = {
+
+}
